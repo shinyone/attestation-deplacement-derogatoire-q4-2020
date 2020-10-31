@@ -1,4 +1,4 @@
-FROM node:lts-buster
+FROM attestationQ42020
 
 WORKDIR /usr/src/app
 
